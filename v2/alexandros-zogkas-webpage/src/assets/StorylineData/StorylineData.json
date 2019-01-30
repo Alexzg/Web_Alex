@@ -1,0 +1,66 @@
+{
+	"storyline": 
+	[
+		{
+		"year": "1990", "story": 
+			[
+			{"title": "My starting point", "group": "Personal", "content": "...", "showContent": false}]},
+		{
+		"year": "2000", "story": 
+			[
+			{"title": "PC game hacking", "group": "Developer", "content": "...", "showContent": false}]},
+		{
+		"year": "2008", "story": 
+			[
+			{"title": "Sports enthousiast", "group": "Personal", "content": "...", "showContent": false}]},
+		{
+		"year": "2012", "story": 
+			[
+			{"title": "Music turor", "group": "Misc", "content": "...", "showContent": false}, 
+			{"title": "Erasmus Student Network", "group": "Misc", "content": "...", "showContent": false}, 
+			{"title": "Event manager assistant", "group": "Misc", "content": "...", "showContent": false}]},
+		{
+		"year": "2013", "story": 
+			[
+			{"title": "Military Officer", "group": "Misc", "content": "...", "showContent": false}, 
+			{"title": "Bachelor's Thesis", "group": "Engineer", "content": "...", "showContent": false}]},
+		{
+		"year": "2014", "story": 
+			[
+			{"title": "Production Engineer", "group": "Engineer", "content": "...", "showContent": false}, 
+			{"title": "Innovation Project 2.0 Competition, Honor", "group": "Misc", "content": "...", "showContent": false}]},
+		{
+		"year": "2015", "story": 
+			[
+			{"title": "Business Plan Awards, Honor", "group": "Misc", "content": "...", "showContent": false}, 
+			{"title": "Sales Engineer", "group": "Engineer", "content": "...", "showContent": false}, 
+			{"title": "Graduation", "group": "Personal", "content": "...", "showContent": false}, 
+			{"title": "R&D Engineer", "group": "Engineer", "content": "...", "showContent": false}]},
+		{
+		"year": "2016", "story": 
+			[
+			{"title": "Physic Turor & Workshop Supervisor", "group": "Misc", "content": "...", "showContent": false}, 
+			{"title": "Mechanical QA Engineer", "group": "Engineer", "content": "...", "showContent": false}, 
+			{"title": "Biomedical conference, MEDICON 2016", "group": "Engineer", "content": "...", "showContent": false}, 
+			{"title": "Conference paper competition", "group": "Misc", "content": "...", "showContent": false}]},
+		{
+		"year": "2017", "story": 
+			[
+			{"title": "Biomedical conference, IEEE CBMS 2017", "group": "Engineer", "content": "...", "showContent": false}, 
+			{"title": "Deep Learning Specialization", "group": "Developer", "content": "...", "showContent": false}, 
+			{"title": "Data Science Specialization", "group": "Developer", "content": "...", "showContent": false}]},
+		{
+		"year": "2018", "story": 
+			[
+			{"title": "Web tech projects", "group": "Developer", "content": "...", "showContent": false}, 
+			{"title": "Berlin risk", "group": "Personal", "content": "...", "showContent": false}, 
+			{"title": "Web frontend student", "group": "Developer", "content": "...", "showContent": false}, 
+			{"title": "Neural Networks Conference, NEUREL 2018", "group": "Developer", "content": "...", "showContent": false}]},
+		{
+		"year": "2019", "story": 
+			[
+			{"title": "Berlin second time", "group": "Personal", "content": "...", "showContent": false}, 
+			{"title": "Webcaster co-founder", "group": "Developer", "content": "...", "showContent": false}]}
+
+	]
+}

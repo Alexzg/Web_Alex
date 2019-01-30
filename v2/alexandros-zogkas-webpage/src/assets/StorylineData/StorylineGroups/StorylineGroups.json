@@ -1,0 +1,10 @@
+{
+	"groups": [
+		{"btnType": "All", "btnColor": "lightred", "btnToggleShow": false},
+		{"btnType": "Personal", "btnColor": "lightgreen", "btnToggleShow": false},
+		{"btnType": "Engineer", "btnColor": "orange", "btnToggleShow": false},
+		{"btnType": "Developer", "btnColor": "purple", "btnToggleShow": false},
+		{"btnType": "Tutor", "btnColor": "lightblue", "btnToggleShow": false},
+		{"btnType": "Misc", "btnColor": "blue", "btnToggleShow": false}
+	]
+}

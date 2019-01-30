@@ -1,0 +1,8 @@
+{
+	"socialButtons": [
+		{"btnType": "Gmail", "link": "...link"},
+		{"btnType": "LinkedIn", "link": "...link"},
+		{"btnType": "Xing", "link": "...link"},
+		{"btnType": "Web Search", "link": "...link"}
+	]
+}
