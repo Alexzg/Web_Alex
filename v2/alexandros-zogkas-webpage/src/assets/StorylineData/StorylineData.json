@@ -4,63 +4,63 @@
 		{
 		"year": "1990", "story": 
 			[
-			{"title": "My starting point", "group": "Personal", "content": "...", "showContent": false}]},
+			{"title": "My starting point", "group": "Personal", "content": "Born in the North Greece of 1990. My family was small and that taught me the power of bonds", "showContent": false}]},
 		{
 		"year": "2000", "story": 
 			[
-			{"title": "PC game hacking", "group": "Developer", "content": "...", "showContent": false}]},
+			{"title": "PC game hacking", "group": "Developer", "content": "Many times as a child, I wanted some of my games to be different. Back at that time there were only a few options for a PC game, so I needed a solution. The notepad, the files of the game and numerous trials to understand the games' functions. C/C++ language in most of the cases", "showContent": false}]},
 		{
 		"year": "2008", "story": 
 			[
-			{"title": "Sports enthousiast", "group": "Personal", "content": "...", "showContent": false}]},
+			{"title": "Sports enthousiast", "group": "Personal", "content": "Even from the time I berely have memories, I was part of sport clubs. Football, basketball, martial arts or just running to keep my shape", "showContent": false}]},
 		{
 		"year": "2012", "story": 
 			[
-			{"title": "Music turor", "group": "Misc", "content": "...", "showContent": false}, 
-			{"title": "Erasmus Student Network", "group": "Misc", "content": "...", "showContent": false}, 
-			{"title": "Event manager assistant", "group": "Misc", "content": "...", "showContent": false}]},
+			{"title": "Music turor", "group": "Misc", "content": "Since young age, my family pushed me in music lessons which would help me be supplied with positive characteristics. And wg=hen I was in University, music also supplied me financially", "showContent": false}, 
+			{"title": "Erasmus Student Network", "group": "Misc", "content": "Helping International and European exchange students to acquire cultural understanding and have self-development throughout their studies in Greece", "showContent": false}, 
+			{"title": "Event manager assistant", "group": "Misc", "content": "Responsible for the company's public relations during events, the transportation of goods and personnel before and after the event; management of the events during the Director's absence", "showContent": false}]},
 		{
 		"year": "2013", "story": 
 			[
-			{"title": "Military Officer", "group": "Misc", "content": "...", "showContent": false}, 
-			{"title": "Bachelor's Thesis", "group": "Engineer", "content": "...", "showContent": false}]},
+			{"title": "Military Officer", "group": "Misc", "content": "Weapons' warehouse officer, trainer for new soldiers and tank platoon leader, during my Mandatory Service in the Greek Army", "showContent": false}, 
+			{"title": "Bachelor's Thesis", "group": "Engineer", "content": "“Electronic impedance tomography scanner for dermatological applications (DERMA-SENSE).” The project combined the development of a portable medical device and its software for data analysis & human-computer interaction", "showContent": false}]},	
 		{
 		"year": "2014", "story": 
 			[
-			{"title": "Production Engineer", "group": "Engineer", "content": "...", "showContent": false}, 
-			{"title": "Innovation Project 2.0 Competition, Honor", "group": "Misc", "content": "...", "showContent": false}]},
+			{"title": "Production Engineer", "group": "Engineer", "content": "Worked as a production engineer and technician for my Internship. My responsibilities included: Production and Quality control of PCB's, construction of small automation electric systems and the design of mechanical drawings using AutoCAD", "showContent": false}, 
+			{"title": "Innovation Project 2.0 Competition, Honor", "group": "Business", "content": "SFEE Innovation Project 2.0 is an open call competition designed for entrepreneurs, researchers and healthcare professionals aiming at strengthening the business capabilities of their ideas. The medical device I developed for my Thesis was selected during the competition 'Innovation Project 2.0' at the top 10 innovative projects in Greece", "showContent": false}]},
 		{
 		"year": "2015", "story": 
 			[
-			{"title": "Business Plan Awards, Honor", "group": "Misc", "content": "...", "showContent": false}, 
-			{"title": "Sales Engineer", "group": "Engineer", "content": "...", "showContent": false}, 
-			{"title": "Graduation", "group": "Personal", "content": "...", "showContent": false}, 
-			{"title": "R&D Engineer", "group": "Engineer", "content": "...", "showContent": false}]},
+			{"title": "Business Plan Awards, Honor", "group": "Misc", "content": "The business plan for my Thesis project was selected at the top 10 during the competition 'John and Mary Pappajohn Business Plan Award' organised at the 'American College of Thessaloniki'", "showContent": false}, 
+			{"title": "Sales Engineer", "group": "Engineer", "content": "An attempt to create a network in United Kingdom which ended with the company's first steady contacts in UK, but unfortunately I did not manage to bring new clients", "showContent": false}, 
+			{"title": "Graduation", "group": "Personal", "content": "The day I finished my Bachelor, after the defence of my Thesis. My studies lasted longer than usually however I already had two conferences in my back, dozens of jobs, business competitions and many wonderful student years", "showContent": false}, 
+			{"title": "R&D Engineer", "group": "Engineer", "content": "Responsible for the design and development of medical decision support devices and their accompanied software in the biomedical research team 'DERMASENSE'", "showContent": false}]},
 		{
 		"year": "2016", "story": 
 			[
-			{"title": "Physic Turor & Workshop Supervisor", "group": "Misc", "content": "...", "showContent": false}, 
-			{"title": "Mechanical QA Engineer", "group": "Engineer", "content": "...", "showContent": false}, 
-			{"title": "Biomedical conference, MEDICON 2016", "group": "Engineer", "content": "...", "showContent": false}, 
-			{"title": "Conference paper competition", "group": "Misc", "content": "...", "showContent": false}]},
+			{"title": "Physic Turor & Workshop Supervisor", "group": "Misc", "content": "Supervising a workshop on physics, for the psychological support of refugee children, in ARSIS - Association for the Social Support of Youth", "showContent": false}, 
+			{"title": "Mechanical QA Engineer", "group": "Engineer", "content": "Quality Control of Mechanical constructions for elevators exported to Russia", "showContent": false}, 
+			{"title": "Biomedical conference, MEDICON 2016", "group": "Engineer", "content": "XIV Mediterranean Conference on Medical and Biological Engineering and Computing - A Novel Non-invasive Electrical Impedance Skin Scanner for Early Diagnosis Medical Decision Support in Clinical Dermatology (DermaSense)", "showContent": false}, 
+			{"title": "Conference paper competition", "group": "Misc", "content": "Selected at the top 10 for the best student paper award, in XIV Mediterranean Conference on Medical and Biological Engineering and Computing", "showContent": false}]},
 		{
 		"year": "2017", "story": 
 			[
-			{"title": "Biomedical conference, IEEE CBMS 2017", "group": "Engineer", "content": "...", "showContent": false}, 
-			{"title": "Deep Learning Specialization", "group": "Developer", "content": "...", "showContent": false}, 
-			{"title": "Data Science Specialization", "group": "Developer", "content": "...", "showContent": false}]},
+			{"title": "Biomedical conference, IEEE CBMS 2017", "group": "Engineer", "content": "30th IEEE International Symposium on Computer-Based Medical Systems - A Non-Invasive Medical Decision Support Prototype System for Dermatology Based on Electrical Impedance Spectroscopy (Dermasense)", "showContent": false}, 
+			{"title": "Deep Learning Specialization", "group": "Developer", "content": "The Deep Learning Specialization offered a 5-course module, with theoretical as well as practical exercises in order to pass each course. For the practical implementation of the Supervised Deep Learning algorithms in exercises, Python programming language was used (mostly Keras API & Tensorflow framework)", "showContent": false}, 
+			{"title": "Data Science Specialization", "group": "Developer", "content": "The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have basic a python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data", "showContent": false}]},
 		{
 		"year": "2018", "story": 
 			[
-			{"title": "Web tech projects", "group": "Developer", "content": "...", "showContent": false}, 
-			{"title": "Berlin risk", "group": "Personal", "content": "...", "showContent": false}, 
-			{"title": "Web frontend student", "group": "Developer", "content": "...", "showContent": false}, 
-			{"title": "Neural Networks Conference, NEUREL 2018", "group": "Developer", "content": "...", "showContent": false}]},
+			{"title": "Tech projects", "group": "Developer", "content": "What is an Engineer without projects? And my passion is this, from simple to complex. Small devices, web, medical tools and data management are among them", "showContent": false}, 
+			{"title": "Berlin risk", "group": "Personal", "content": "When you leave your previous path behind and risk to start everything again. Even if you need to work as a cleaner as a start", "showContent": false}, 
+			{"title": "Web frontend student", "group": "Developer", "content": "And then it was revealed, what moves the end of our era; The Web. Even though I had never before the chance to create using it, for quite some I steadily give my free time time to utilize this tool", "showContent": false}, 
+			{"title": "Neural Networks Conference, NEUREL 2018", "group": "Developer", "content": "14th Symposium on Neural Networks and Applications - Artificial neural networks and statistical classification applied to Electrical Impedance Spectroscopy data for Melanoma diagnosis in Dermatology (DermaSense)", "showContent": false}]},
 		{
 		"year": "2019", "story": 
 			[
-			{"title": "Berlin second time", "group": "Personal", "content": "...", "showContent": false}, 
-			{"title": "Webcaster co-founder", "group": "Developer", "content": "...", "showContent": false}]}
+			{"title": "Berlin second time", "group": "Personal", "content": "After a first attempt that stuck in Bureacrasy, effort and risk lead to this city again. When you know how falure is, you learn how to focus on goals", "showContent": false}, 
+			{"title": "Webcaster co-founder", "group": "Developer", "content": "Until now, I tried to bring in reality many of my ideas. But without the right team  it is extremely difficult. By donating personal free time in webcaster, it will be possible to create a platform for collaboration and innovative progress", "showContent": false}]}
 
 	]
 }
