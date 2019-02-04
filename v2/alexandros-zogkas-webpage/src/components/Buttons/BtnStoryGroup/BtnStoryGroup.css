@@ -1,0 +1,27 @@
+.Line {
+	border-left: solid 2px grey;
+}
+
+.Line:hover {
+	border-width: thick; 
+}
+
+.Btn {
+	display: block;
+	color: #6c6c6d;
+	width: 7em;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 5px;
+	border: solid 2px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.Btn:hover {
+	font-weight: bold;
+}
+
+.Btn:focus {
+	outline: 0;
+}
