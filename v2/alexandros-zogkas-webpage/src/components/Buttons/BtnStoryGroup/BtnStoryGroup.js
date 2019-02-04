@@ -1,10 +1,13 @@
 import React from 'react';
 
+import './BtnStoryGroup.css';
+
 const BtnStoryGroup = (props) => {
 	return (
-	<div>
+	<div className='Line' style={{borderColor: props.Color}}>
 		<button 
-			style={{color: props.Color}}
+			className='Btn'
+			style={{backgroundColor: props.Color, borderColor: props.Color}}
 			onClick={() => props.OnClick(props.Type, null)}>
 			{props.Type}
 		</button>
