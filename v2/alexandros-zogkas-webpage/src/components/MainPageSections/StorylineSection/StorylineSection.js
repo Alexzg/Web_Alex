@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import StoryData from '../../../assets/StorylineData/StorylineData.json';
 import StoryGroupType from '../../../assets/StorylineData/StorylineGroups/StorylineGroups.json';
+import './StorylineSection.css';
 
 import Aux from '../../../hoc/Auxiliary/Auxiliary';
 
@@ -81,10 +82,14 @@ class StorylineSection extends Component {
 		
 		return (
 			<div id={this.props.id} >
-				<h3>Storyline Section</h3>
-				{btnStoryGroup}<p>Toggled buttons: ok!</p>
-				<p>story tree</p>
-				{storyLineTree}
+				<h3>If you want to learn more just click it...</h3>
+				<div className='GroupBtnBody'>
+					<div className='Left Column'></div>
+					<div className='Right Column'>{btnStoryGroup}</div>
+				</div>
+				<div className='StoriesBody'>
+					{storyLineTree}
+				</div>
 			</div>
 		)
 	}
