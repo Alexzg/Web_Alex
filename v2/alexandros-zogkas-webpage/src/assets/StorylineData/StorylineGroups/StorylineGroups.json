@@ -1,10 +1,11 @@
 {
 	"groups": [
-		{"btnType": "All", "btnColor": "lightred", "btnToggleShow": false},
-		{"btnType": "Personal", "btnColor": "lightgreen", "btnToggleShow": false},
-		{"btnType": "Engineer", "btnColor": "orange", "btnToggleShow": false},
-		{"btnType": "Developer", "btnColor": "purple", "btnToggleShow": false},
-		{"btnType": "Tutor", "btnColor": "lightblue", "btnToggleShow": false},
-		{"btnType": "Misc", "btnColor": "blue", "btnToggleShow": false}
+		{"btnType": "All", "btnColor": "#FFFFFF", "btnToggleShow": false},
+		{"btnType": "Personal", "btnColor": "#01FF70", "btnToggleShow": false},
+		{"btnType": "Engineer", "btnColor": "#ffa251", "btnToggleShow": false},
+		{"btnType": "Developer", "btnColor": "#f3a5ff", "btnToggleShow": false},
+		{"btnType": "Business", "btnColor": "#FFDC00", "btnToggleShow": false},
+		{"btnType": "Tutor", "btnColor": "#7be6b7", "btnToggleShow": false},
+		{"btnType": "Misc", "btnColor": "#39CCCC", "btnToggleShow": false}
 	]
 }
