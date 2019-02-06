@@ -1,0 +1,33 @@
+.BtnStoryTitle {
+	width: 60%;
+	margin: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	background-color: inherit;
+	color: #6c6c6d;
+	border-width: 0 0 2px 0;
+	border-radius: 7px;
+	font-size: 1em;
+}
+
+.TitleClicked {
+	border-width: 2px 0 0 0;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.BtnStoryTitle:hover {
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.BtnStoryTitle:focus {
+	outline: 0;
+}
+
+@media only screen and (max-width: 600px) {
+	.BtnStoryTitle {
+		font-size: 0.8em;
+	}
+}
