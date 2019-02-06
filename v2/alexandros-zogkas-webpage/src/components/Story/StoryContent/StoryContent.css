@@ -1,0 +1,11 @@
+.StoryContentBody {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	color: grey;
+	font-size: 1em;
+}
+
+.StoryContentBody p {
+	text-align: left;
+}
