@@ -1,3 +1,7 @@
+.StorylineBody h3 {
+	font-style: italic;
+}
+
 .GroupBtnBody {
 	width: 60%;
 	margin-left: auto;
@@ -29,7 +33,8 @@
 	border-radius: 10px;
 }
 
-@media (max-width: 500px) {
+/*for-mobile*/
+@media only screen and (max-width: 600px) {
 	.GroupBtnBody {
 		width: 100%;
 	}
@@ -40,5 +45,12 @@
 	}
 	.StoriesBody {
 		width: 100%;
+	}
+}
+
+/* for-desktop */
+@media only screen and (min-width: 600px) {
+	.TimeChapter {
+		margin-bottom: 1.2em;
 	}
 }
