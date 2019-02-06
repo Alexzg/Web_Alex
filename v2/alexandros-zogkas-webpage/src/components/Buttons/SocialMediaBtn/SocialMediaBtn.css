@@ -1,0 +1,15 @@
+.SocialMediaBtn {
+	width: 10%;
+	margin: 1em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.SocialMediaBtn img {
+	display: inline-block;
+	width: 3em;
+}
+
+.SocialMediaBtn img:hover {
+	background-color: lightgrey;
+}
