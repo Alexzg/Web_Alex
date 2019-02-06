@@ -3,7 +3,7 @@ import React from 'react';
 import './StoryYearLabel.css';
 
 const StoryYearLabel = (props) => (
-	<div className='MainBody'>
+	<div className='YearLabelMainBody'>
 		<p><strong>{props.StoryYear}</strong></p>
 	</div>
 );
