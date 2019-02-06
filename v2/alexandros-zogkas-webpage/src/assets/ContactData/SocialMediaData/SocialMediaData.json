@@ -1,6 +1,5 @@
 {
 	"socialButtons": [
-		{"btnType": "Gmail", "link": "mailto:alexander.zogkas@gmail.com"},
 		{"btnType": "LinkedIn", "link": "https://www.linkedin.com/in/alexandros-zogkas-4b99b598"},
 		{"btnType": "Xing", "link": "https://www.xing.com/profile/Alexandros_Zogkas"},
 		{"btnType": "Github", "link": "https://github.com/Alexzg"}
