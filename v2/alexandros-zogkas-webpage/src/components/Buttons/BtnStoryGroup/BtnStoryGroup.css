@@ -1,12 +1,13 @@
-.Line {
+.GroupBtnLine {
 	border-left: solid 2px grey;
 }
 
-.Line:hover {
+.GroupBtnLine:hover,
+.GroupBtnClicked {
 	border-width: thick; 
 }
 
-.Btn {
+.GroupBtn {
 	display: block;
 	color: #6c6c6d;
 	width: 7em;
@@ -16,12 +17,21 @@
 	border: solid 2px;
 	margin-left: auto;
 	margin-right: auto;
+	font-size: 1.15em
 }
 
-.Btn:hover {
+.GroupBtn:hover {
 	font-weight: bold;
+	cursor: pointer;
 }
 
-.Btn:focus {
+.GroupBtn:focus {
 	outline: 0;
+}
+
+/*for-mobile*/
+@media only screen and (max-width: 600px) {
+	.GroupBtn {
+		font-size: 0.8em;
+	}
 }
