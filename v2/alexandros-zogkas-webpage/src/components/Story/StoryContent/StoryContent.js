@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './StoryContent.css';
+
 const StoryContent = (props) => {
 	// StoryGroups <- StorylineGroups.json
 	const storyGroup = props.StoryGroups.find(group => group.btnType === props.StoryGroup);
@@ -16,8 +18,8 @@ const StoryContent = (props) => {
 	groupShow ? show=groupShow : show=props.ShowContent;
 	
 	return(
-		<div>
-			<p style={{color: 'grey'}} hidden={!show}>
+		<div className='StoryContentBody'>
+			<p hidden={!show}>
 				{props.StoryContent}
 			</p>
 		</div>
