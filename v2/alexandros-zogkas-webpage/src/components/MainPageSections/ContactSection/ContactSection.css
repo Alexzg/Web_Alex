@@ -1,0 +1,10 @@
+.ContactSectionBody {
+	
+}
+
+.SocialMediaButtonsGroup {
+	display: flex;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
