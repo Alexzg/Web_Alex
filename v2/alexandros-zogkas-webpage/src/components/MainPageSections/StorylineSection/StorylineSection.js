@@ -61,7 +61,7 @@ class StorylineSection extends Component {
 				
 		const storyLineTree = this.state.storyData
 			.map(timeChapter => (
-				<Aux key={timeChapter.year}>
+				<div key={timeChapter.year} className='TimeChapter'>
 					<StoryYearLabel StoryYear={timeChapter.year} />
 					{timeChapter.story.map(story  => (
 						<div key={story.title}>
@@ -69,7 +69,8 @@ class StorylineSection extends Component {
 								StoryTitle={story.title} 
 								StoryGroups={this.state.storyGroups}
 								StoryGroup={story.group}
-								OnClick={this.handleContentVisibilityToggle}/>
+								OnClick={this.handleContentVisibilityToggle}
+								ShowContent={story.showContent}/>
 							<StoryContent 
 								StoryContent={story.content} 
 								StoryGroups={this.state.storyGroups}
@@ -77,11 +78,11 @@ class StorylineSection extends Component {
 								ShowContent={story.showContent}/>
 						</div>)
 						)}
-				</Aux>
+				</div>
 		));
 		
 		return (
-			<div id={this.props.id} >
+			<div id={this.props.id} className='StorylineBody'>
 				<h3>If you want to learn more just click it...</h3>
 				<div className='GroupBtnBody'>
 					<div className='Left Column'></div>
