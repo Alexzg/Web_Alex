@@ -13,7 +13,7 @@
 }
 
 .NavigationItem a:hover {
-	color: #40A4C8;
+	color: orange;
 }
 @media (min-width: 500px) {
 	.NavigationItem {
