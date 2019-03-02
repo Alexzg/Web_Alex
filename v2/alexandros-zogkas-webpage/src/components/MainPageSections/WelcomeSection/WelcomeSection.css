@@ -5,8 +5,8 @@
 
 .MainSection img {
 	width: 100%;
-	height: 95vh;
-	opacity: 0.35;
+	height: auto;
+	opacity: 0.75;
 }
 
 .MainSection p {
@@ -18,17 +18,27 @@
 	font-size: 2.3em;
 }
 
+@media (max-width: 699px){
+	.MainSection p {
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	font-size: 1.5em;
+}
+}
+
 @media (max-width: 499px){
 	.MainSection {
 		width: 100%;
-		height: 50vh;
+		height: auto;
 		margin-left: auto;
 		margin-right: auto;
 	}
 	
 	.MainSection img {
 		width: 100%;
-		height: 50vh;
+		height: auto;
 	}
 	
 	.MainSection p {
@@ -36,6 +46,12 @@
 	left: 50%;
 	transform: translate(-50%, -50%);
 	color: white;
-	font-size: 1.3em;
+	font-size: 1.0em;
+}
+}
+
+@media (max-width: 299px){
+	.MainSection p {
+	display: none;
 }
 }
