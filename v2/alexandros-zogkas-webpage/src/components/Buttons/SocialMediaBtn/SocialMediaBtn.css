@@ -8,8 +8,9 @@
 .SocialMediaBtn img {
 	display: inline-block;
 	width: 3em;
+	opacity: 0.70;
 }
 
 .SocialMediaBtn img:hover {
-	background-color: lightgrey;
+	opacity: 0.95;
 }
