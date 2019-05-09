@@ -83,7 +83,8 @@ class StorylineSection extends Component {
 		
 		return (
 			<div id={this.props.id} className='StorylineBody'>
-				<h3>If you want to learn more just click it...</h3>
+				<h1>If you want to learn more...</h1>
+				<h2>...just click an element</h2>
 				<div className='GroupBtnBody'>
 					<div className='Left Column'></div>
 					<div className='Right Column'>{btnStoryGroup}</div>
